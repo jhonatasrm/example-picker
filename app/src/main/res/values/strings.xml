@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">example-picker</string>
+    <string name="open_date">Date</string>
+    <string name="open_time">Time</string>
+</resources>
