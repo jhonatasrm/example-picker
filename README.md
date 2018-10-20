@@ -1,2 +1,2 @@
-# Example Picker
-Example of how use pickers on Android
+# Example how use picker
+Example of how use pickers (DatePickerDialog and TimePickerDialog) on Android.
